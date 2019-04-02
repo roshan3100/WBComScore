@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+
+<question id="1">  
+
+	<report_date>2018-04-06</report_date>
+<creation_date>2018-04-20</creation_date>
+	
+    <answers>  
+        <answername>java is a programming language</answername>  
+        <id>101</id>  
+        <postedby>ravi</postedby>  
+    </answers>  
+    <answers>  
+        <answername>java is a platform</answername>  
+        <id>102</id>  
+        <postedby>john</postedby>  
+    </answers>  
+    <questionname>What is java?</questionname>  
+</question>
